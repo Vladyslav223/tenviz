@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,KACE,YAAa,CACb,WAAY,CACZ,oCACF","file":"main.cb80c82f.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.div {\n  height: 100px;\n  width: 200px;\n  background: url('/tenviz/img/list.png');\n}"]}

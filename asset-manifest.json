@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tenviz/static/css/main.cb80c82f.chunk.css",
+    "main.js": "/tenviz/static/js/main.d64e2bf0.chunk.js",
+    "main.js.map": "/tenviz/static/js/main.d64e2bf0.chunk.js.map",
+    "runtime-main.js": "/tenviz/static/js/runtime-main.b5c36f9b.js",
+    "runtime-main.js.map": "/tenviz/static/js/runtime-main.b5c36f9b.js.map",
+    "static/js/2.32b67d19.chunk.js": "/tenviz/static/js/2.32b67d19.chunk.js",
+    "static/js/2.32b67d19.chunk.js.map": "/tenviz/static/js/2.32b67d19.chunk.js.map",
+    "index.html": "/tenviz/index.html",
+    "precache-manifest.d418e924da51b67505ab934ce7778e98.js": "/tenviz/precache-manifest.d418e924da51b67505ab934ce7778e98.js",
+    "service-worker.js": "/tenviz/service-worker.js",
+    "static/css/main.cb80c82f.chunk.css.map": "/tenviz/static/css/main.cb80c82f.chunk.css.map",
+    "static/js/2.32b67d19.chunk.js.LICENSE.txt": "/tenviz/static/js/2.32b67d19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5c36f9b.js",
+    "static/js/2.32b67d19.chunk.js",
+    "static/css/main.cb80c82f.chunk.css",
+    "static/js/main.d64e2bf0.chunk.js"
+  ]
+}
